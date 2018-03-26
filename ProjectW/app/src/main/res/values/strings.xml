@@ -1,3 +1,23 @@
 <resources>
-    <string name="app_name">ProjectW</string>
+    <string name="app_name">Projeto W</string>
+    <string name="mvd_add">Adicionar</string>
+    <string name="mvd_viewTitle">Cadastros</string>
+    <string name="mad_return">Voltar</string>
+    <string name="mad_adicionar">Cadastrar</string>
+    <string name="mad_razaoSocial">Razão social:</string>
+    <string name="mad_nomeFantasia">Nome fantasia:</string>
+    <string name="mad_CNPJ">CNPJ:</string>
+    <string name="mad_DDD">DDD:</string>
+    <string name="mad_telefone">Telefone:</string>
+    <string name="mad_site">Site:</string>
+    <string name="erro_addCadastro_Invalido">Existe campos com valores inválidos</string>
+    <string name="erro_addCadastro_FalhaDB">Ocorreu um erro no banco de dados</string>
+    <string name="sucesso_addCadastro">Cadastro inserido com sucesso</string>
+
+    <string name="bt_edit">Editar</string>
+    <string name="bt_delete">Deletar</string>
+    <string name="tit_delete">Deleção de cadastro</string>
+    <string name="msg_delete">Deseja deletar este cadastro?</string>
+    <string name="bt_cancelar">Cancelar</string>
+    <string name="msg_noData">Nenhuma mensagem cadastrada</string>
 </resources>
